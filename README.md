@@ -1,0 +1,2 @@
+# arp_spoof
+ARP spoofing - bu kompyuter tarmoqlaridagi hujumning bir turi bo'lib, unda tajovuzkor o'zining MAC manzilini qurbonning IP manzili bilan bog'lash uchun soxta ARP paketlarini yuboradi. Bu tajovuzkorga jabrlanuvchi va boshqa tarmoq tugunlari o'rtasidagi tarmoq trafigini ushlab turish yoki o'zgartirish imkonini beradi. ARP bilan zaharlanish har xil turdagi hujumlarni amalga oshirish uchun ishlatilishi mumkin, masalan, Man-in-the-Middle
